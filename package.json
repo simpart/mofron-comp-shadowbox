@@ -1,0 +1,27 @@
+{
+  "name": "mofron-comp-shadowbox",
+  "version": "0.0.1",
+  "description": "shadow box component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-shadowbox.git"
+  },
+  "dependencies": {
+    "mofron-comp-selectbox": "",
+    "mofron-effect-hovshadow": "",
+    "mofron-effect-dent": ""
+  },
+  "keywords": [
+    "mofron.front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-shadowbox/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-shadowbox#readme"
+}
